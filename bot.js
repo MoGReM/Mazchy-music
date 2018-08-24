@@ -371,8 +371,8 @@ message.author.send(`
 
   __Music__
 
-\`${prefix}nowplaying\` - **shows the song that is currently playing**
-\`${prefix}play\` - **plays the provided song**
+\`${-}nowplaying\` - **shows the song that is currently playing**
+\`${-}play\` - **plays the provided song**
 \`${prefix}queue\` - **shows the current queue**
 \`${prefix}skip\` - **skip the current song**
 \`${prefix}Stop\` - **Stop the current song**
